@@ -1,12 +1,13 @@
-# ***SData Science Project**
+# ***Data Science Project**
 
-# *****Install the required dependencies
-      # **** pip install requests bs4 json
+# ****nstall the required dependencies
+      # pip install requests bs4 json
 
 # ******Usage:
 
 Run the code:
-python scrape_law_guides.py
+      #  python scrape_law_guides.py
+      
 The code will ask you to enter the topic that you want to scrape.
 
 Enter the topic and press Enter.
