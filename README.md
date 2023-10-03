@@ -1,16 +1,5 @@
-# ***Data Science Project**
+# Data Science Project
 
-# ****nstall the required dependencies
-      # pip install requests bs4 json
+## Usage
 
-# ******Usage:
-
-Run the code:
-      #  python scrape_law_guides.py
-      
-The code will ask you to enter the topic that you want to scrape.
-
-Enter the topic and press Enter.
-
-The code will scrape the law guides for the topic that you entered and save the scraped content to a JSON file called law_guides.json in the current directory.
-
+Run `scrape_law_guides.py` to scrape law guides and save the scraped content to a JSON file called `law_guides.json`.
